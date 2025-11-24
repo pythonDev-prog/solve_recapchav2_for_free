@@ -2,6 +2,10 @@
 
 An automated ReCAPTCHA v2 solver using Playwright and the NopeCHA browser extension. This tool helps bypass ReCAPTCHA challenges for testing and automation purposes.
 
+## 🎬 Demo
+
+![ReCAPTCHA Solver Demo](e:/solve_recapchav2_for_free/demo.mp4)
+
 ## ✨ Features
 
 - 🚀 Automated ReCAPTCHA v2 solving using NopeCHA extension

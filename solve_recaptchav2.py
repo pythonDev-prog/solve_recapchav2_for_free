@@ -1,13 +1,3 @@
-"""
-ReCAPTCHA v2 Solver using Playwright and NopeCHA Extension
-
-This script automates the solving of ReCAPTCHA v2 challenges using the NopeCHA
-browser extension with Playwright. It launches a Chromium browser with the extension
-loaded and navigates to a specified URL.
-
-Author: Mohammed Anaam
-"""
-
 import argparse
 import sys
 import time
@@ -17,7 +7,6 @@ from playwright.sync_api import sync_playwright, Error as PlaywrightError
 
 def get_extension_path():
 
-    # Use relative path from script location
     script_dir = Path(__file__).parent
     extension_path = script_dir / "extension" / "nopecha-extensionC"
     
