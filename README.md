@@ -4,10 +4,11 @@ An automated ReCAPTCHA v2 solver using Playwright and the NopeCHA browser extens
 
 ## 🎬 Demo
 
-<!-- Upload this video to GitHub by editing this README on GitHub's website and dragging demo.mp4 into the editor -->
-<!-- GitHub will generate a link like: https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx -->
 
-<video src="demo.mp4" controls></video>
+
+https://github.com/user-attachments/assets/55ba92ba-ad00-4335-9f48-2e205e497833
+
+
 
 *The tool automatically solves ReCAPTCHA v2 challenges*
 
